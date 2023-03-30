@@ -1,0 +1,9 @@
+{
+    "author": "ILIKEPIEFOO2",
+    "description": "A simple script that can help declutter the REI menu when Chipped is installed. Requires REI and Chipped.",
+    
+    "versions": [8],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
