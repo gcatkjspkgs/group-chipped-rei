@@ -4,6 +4,6 @@
     
     "versions": [8],
     "modloaders": ["forge", "fabric"],
-    "dependencies": ["mod:roughlyenoughitems"],
+    "dependencies": ["mod:roughlyenoughitems", "mod:chipped"],
     "incompatibilities": []
 }
